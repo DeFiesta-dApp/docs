@@ -15,6 +15,6 @@ layout:
 
 # Contact Us
 
-## [Support](support.md)
+## [Support and contacts](support.md)
 
 ## [Social Accounts](social-accounts-and-communities.md)
