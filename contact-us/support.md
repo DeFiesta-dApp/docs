@@ -14,6 +14,10 @@ Administrators will never ask for your secret phrase, private keys, or any sensi
 
 [info@defiesta.io](mailto:info@defiesta.io)
 
+## Products support
+
+[support@defiesta.io](mailto:support@defiesta.io)
+
 ## Partners and business proposals:
 
 [partners@defiesta.io](mailto:partners@defiesta.io)
