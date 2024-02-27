@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Get Started](get-started/README.md)
+  * [Project Example](get-started/project-example.md)
+  * [Affiliate Example](get-started/affiliate-example.md)
 * [Executor](executor.md)
 * [Products](products/README.md)
   * [Token](products/token/README.md)
