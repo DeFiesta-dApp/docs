@@ -47,3 +47,9 @@ For an illustrative guide to leveraging DeFiesta's services, we've curated a sel
 ### [Project example](project-example.md)
 
 ### [Affiliate Example](affiliate-example.md)
+
+## Testnet Tutorial
+
+You can access the full functionality of DeFiesta in the test network. Follow the link for a tutorial documentation on testing in the test network.
+
+### [Testing DeFiesta](testnet-tutorial.md)

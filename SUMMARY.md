@@ -4,6 +4,7 @@
 * [Get Started](get-started/README.md)
   * [Project Example](get-started/project-example.md)
   * [Affiliate Example](get-started/affiliate-example.md)
+  * [Testnet Tutorial](get-started/testnet-tutorial.md)
 * [Executor](executor.md)
 * [Products](products/README.md)
   * [Token](products/token/README.md)
