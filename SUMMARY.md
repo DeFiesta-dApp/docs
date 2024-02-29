@@ -6,6 +6,7 @@
   * [Affiliate Example](get-started/affiliate-example.md)
   * [Testnet Tutorial](get-started/testnet-tutorial.md)
 * [Executor](executor.md)
+* [Yield Pool](yield-pool.md)
 * [Products](products/README.md)
   * [Token](products/token/README.md)
     * [Extensions overview](products/token/extensions-overview.md)
