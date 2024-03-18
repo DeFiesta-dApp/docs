@@ -5,6 +5,7 @@
   * [Project Example](get-started/project-example.md)
   * [Affiliate Example](get-started/affiliate-example.md)
   * [Testnet Tutorial](get-started/testnet-tutorial.md)
+* [Tokenomics](tokenomics.md)
 * [Executor](executor.md)
 * [Yield Pool](yield-pool.md)
 * [Products](products/README.md)
