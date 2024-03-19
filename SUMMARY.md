@@ -19,6 +19,7 @@
   * [Ambassador Program](partnerships/ambassador-program.md)
   * [Brand & Logos](partnerships/brand-and-logos.md)
 * [Open Source](open-source.md)
+* [Deployed Contracts](deployed-contracts.md)
 * [API reference](api-reference.md)
 * [Contact Us](contact-us/README.md)
   * [Support](contact-us/support.md)
