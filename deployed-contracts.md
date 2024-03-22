@@ -8,7 +8,7 @@ description: Smart Contract Addresses of DeFiesta Across Various Blockchains
 
 Utility token smart contract addresses
 
-<table><thead><tr><th width="154">Network</th><th width="100">ChainId</th><th width="237">Address</th><th width="108">Name</th><th width="92">Symbol</th><th>Decimals</th></tr></thead><tbody><tr><td>Sepolia</td><td>11155111</td><td>0xbc710b1776376a8ec0C930Ac564cFdAB8CF5aB99</td><td>DeFiesta</td><td>DFI</td><td>18</td></tr><tr><td>Arbitrum One</td><td>42161</td><td>0xbc4b89dae741B6D850A2C506cA341402bB0da958</td><td>DeFiesta</td><td>DFI</td><td>18</td></tr></tbody></table>
+<table><thead><tr><th width="154">Network</th><th width="100">ChainId</th><th width="241">Address</th><th width="108">Name</th><th width="92">Symbol</th><th>Decimals</th></tr></thead><tbody><tr><td>Sepolia</td><td>11155111</td><td>0xbc710b1776376a8ec0C930Ac564cFdAB8CF5aB99</td><td>DeFiesta</td><td>DFI</td><td>18</td></tr><tr><td>Arbitrum One</td><td>42161</td><td>0x037D1E15139ED5Ebe39993525294154bb856288e</td><td>DeFiesta</td><td>DFI</td><td>18</td></tr></tbody></table>
 
 ## Sepolia (11155111)
 
@@ -16,4 +16,4 @@ Utility token smart contract addresses
 
 ## Arbitrum One (42161)
 
-<table><thead><tr><th width="204">Contract</th><th>Address</th></tr></thead><tbody><tr><td>DeFiesta</td><td>0xbc4b89dae741B6D850A2C506cA341402bB0da958</td></tr><tr><td>YieldPool</td><td>0xc3b9f8f2C2Bb527411e4aFa8c380cE7043410b91</td></tr><tr><td>PresaleBuilder</td><td>0x2B65975732686A19e00ef8DB6f63839DD6c75306</td></tr><tr><td>TokenBuilder</td><td>0x455F1D0E642BAFbA633E93BC5231059730266334</td></tr><tr><td>Executor</td><td>0xeFAe7e030f00442B6721122099666e5c6810c8B1</td></tr><tr><td>Discount</td><td>0x96BCa43d9fc8994f113602fcD5B81f63517f477B</td></tr><tr><td>Governance</td><td>0x514921a02719066B4DB8cE0BA0210F34aEf3eccC</td></tr></tbody></table>
+<table><thead><tr><th width="204">Contract</th><th>Address</th></tr></thead><tbody><tr><td>DeFiesta</td><td>0x037D1E15139ED5Ebe39993525294154bb856288e</td></tr><tr><td>YieldPool</td><td>0x655c0065AA39580D38dA175667348Bb42d1224c7</td></tr><tr><td>PresaleBuilder</td><td>0x1774778fB984d7ce7C9c8e6599A84101E1999090</td></tr><tr><td>TokenBuilder</td><td>0x58cce2f2C5D0C3277D2BA9Ac020a747b3C59A4f7</td></tr><tr><td>Executor</td><td>0x3016590d317eC2988306E1461f82609e225365d1</td></tr><tr><td>Discount</td><td>0x8B33268359bA3FdB403E0851E48cdA4EE69B18Fb</td></tr><tr><td>Governance</td><td>0x5C4616931aA8593296ca969D0d81f31A176D837c</td></tr></tbody></table>
