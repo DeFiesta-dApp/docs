@@ -8,6 +8,12 @@ description: Engage in contests and earn rewards in DFI tokens.
 
 DeFiesta Contests is a platform crafted to advance the proliferation and application of blockchain technologies. By participating in our contests, you not only learn through comprehensive training modules but also complete tasks that enhance your understanding and proficiency in blockchain. Successful completion of these tasks leads to rewards.
 
+
+
+{% content-ref url="educational-contest.md" %}
+[educational-contest.md](educational-contest.md)
+{% endcontent-ref %}
+
 ## Tutorial
 
 1. **Authentication:**\
