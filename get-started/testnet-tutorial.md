@@ -20,11 +20,38 @@ First, you'll need a compatible crypto wallet that supports Ethereum's testnets,
 
 To interact with DeFiesta's services on the testnet, you'll need test ETH. Acquire this from a faucet specific to the Arbitrum Sepolia network. This process mimics real transactions without any real-world financial risk.
 
-* Alchemy: [https://www.alchemy.com/faucets/arbitrum-sepolia](https://www.alchemy.com/faucets/arbitrum-sepolia)&#x20;
-* Bridge: [https://bridge.arbitrum.io](https://bridge.arbitrum.io/)
+1. **Alchemy**
+
+* **Requirements:** Wallet must have a minimum balance of 0.001 ETH on Arbitrum mainnet.
+* **URL:** [https://www.alchemy.com/faucets/arbitrum-sepolia](https://www.alchemy.com/faucets/arbitrum-sepolia)
+
+2. #### GetBlock&#x20;
+
+* **Requirements:** Wallet must have a minimum balance of 0.005 ETH on Arbitrum mainnet.
+* **URL:** [https://getblock.io/faucet/arb-sepolia](https://getblock.io/faucet/arb-sepolia/)
+
+3. **QuickNode**
+
+* **Requirements:** Wallet must hold at least 0.001 ETH on Ethereum Mainnet to use the EVM faucets.
+* **URL:** [https://faucet.quicknode.com/arbitrum/sepolia](https://faucet.quicknode.com/arbitrum/sepolia)
+
+4. **thirdweb**
+
+* **Requirements:** Connect wallet to the site.
+* **URL:** [https://thirdweb.com/arbitrum-sepolia](https://thirdweb.com/arbitrum-sepolia)
+
+5. **Chainlink**
+
+* **Requirements:** Authentication via a GitHub account.
+* **URL:** [https://faucets.chain.link/arbitrum-sepolia](https://faucets.chain.link/arbitrum-sepolia)
+
+5. **Bridge**
+
+* **Requirements:** ETH availability on the Ethereum Sepolia network for transferring tokens to Arbitrum Sepolia.
+* **URL:** [https://bridge.arbitrum.io/?destinationChain=arbitrum-sepolia\&sourceChain=sepolia](https://bridge.arbitrum.io/?destinationChain=arbitrum-sepolia\&sourceChain=sepolia)
 
 {% hint style="warning" %}
-Some faucets, to prevent bots and abuse, require a minimum mainnet balance of 0.001 ETH in the wallet address being used.
+Some faucets, to prevent bots and abuse, require a minimum mainnet balance of ETH in the wallet address being used or creating an account.
 {% endhint %}
 
 ## Using the DeFiesta Test Faucet
