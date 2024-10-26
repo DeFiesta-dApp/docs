@@ -5,6 +5,7 @@
   * [Project Example](get-started/project-example.md)
   * [Affiliate Example](get-started/affiliate-example.md)
   * [Testnet Tutorial](get-started/testnet-tutorial.md)
+* [Game](game.md)
 * [Contests](contests/README.md)
   * [Educational Contest](contests/educational-contest.md)
 * [Tokenomics](tokenomics.md)
