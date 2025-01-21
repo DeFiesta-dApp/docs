@@ -15,6 +15,12 @@ layout:
 
 # Welcome
 
+Документация на русском языке
+
+{% content-ref url="https://app.gitbook.com/s/Cq3RIwGabcxBGO4CNN96/" %}
+[Добро пожаловать](https://app.gitbook.com/s/Cq3RIwGabcxBGO4CNN96/)
+{% endcontent-ref %}
+
 ## Intro
 
 In the ever-evolving world of decentralized finance (DeFi), the barrier to entry can seem daunting for many. Recognizing this challenge, DeFiesta emerges as a revolutionary platform designed to democratize access to DeFi project creation. Our mission is clear: to offer an automated, transparent, and secure pathway for individuals and businesses to bring their DeFi projects to life, without the need for complex programming knowledge.
