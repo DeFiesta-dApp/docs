@@ -1,5 +1,4 @@
 ---
-description: 'DeFiesta: your gateway to simplified DeFi project creation'
 layout:
   title:
     visible: true
@@ -21,21 +20,57 @@ layout:
 [Добро пожаловать](https://app.gitbook.com/s/Cq3RIwGabcxBGO4CNN96/)
 {% endcontent-ref %}
 
-## Intro
+## DeFiesta Ecosystem. What is it?
 
-In the ever-evolving world of decentralized finance (DeFi), the barrier to entry can seem daunting for many. Recognizing this challenge, DeFiesta emerges as a revolutionary platform designed to democratize access to DeFi project creation. Our mission is clear: to offer an automated, transparent, and secure pathway for individuals and businesses to bring their DeFi projects to life, without the need for complex programming knowledge.
+* A constructor for decentralized blockchain applications (launching tokens, NFTs, and multi-round presales) without programming skills.
+* An educational platform "Contests" for beginners with training in a testnet environment.
+* A game-based earning airdrop in Telegram.
+* A deflationary DFI token with presale, staking, and referral program participation. 50% of the product creation fee will be burned.
+* 24/7 support.
 
-At DeFiesta, we believe in the power of innovation and the importance of accessibility. Our platform is built upon the foundation of user-friendliness, featuring an intuitive interface and comprehensive documentation. This approach empowers you to create your own tokens, presales, NFTs, and more, with ease and confidence. Whether you're a seasoned blockchain enthusiast or a newcomer to the DeFi space, DeFiesta provides the tools you need to transform your ideas into reality.
+### Key Innovations of the Platform:
 
-## Why Choose DeFiesta?
+* Automated smart contract verification system before deployment.&#x20;
+* Built-in rug pull protection through a liquidity lock mechanism.&#x20;
+* Multi-chain architecture with support for Arbitrum and Sepolia.
 
-1. **Automated and Transparent**: DeFiesta streamlines the creation of DeFi projects, ensuring a straightforward and transparent process. Our platform operates entirely on the blockchain, providing absolute security and eliminating intermediaries.
-2. **User-Friendly Design**: We understand the importance of a seamless user experience. DeFiesta's platform is designed with simplicity in mind, making DeFi project creation accessible to users regardless of their technical background.
-3. **Comprehensive Control**: With DeFiesta, you're not just creating a project; you're gaining the ability to fully manage and adapt your smart contracts. This ensures that your DeFi projects evolve in line with your vision.
-4. **Security and Reliability**: We prioritize the security of your projects. DeFiesta employs robust security measures to ensure that your ventures on the blockchain are safe and reliable.
-5. **Free Test Network Trial**: Experience DeFiesta's capabilities firsthand without any cost. Our test network allows you to explore and verify the platform's functionality and user-friendliness before committing to your project.
+### Benefits for Beginners:
 
-DeFiesta is more than just a platform; it's a partner in your DeFi project journey. We empower you to bring your innovative ideas to life on the blockchain, free from the usual constraints and complexities. Whether you're an experienced blockchain developer or new to the DeFi world, DeFiesta equips you with the tools and support necessary to succeed.
+* Create tokens, NFTs, and multi-round presales without programming knowledge.&#x20;
+* User-friendly interface similar to a website builder.&#x20;
+* Free testing of all features in the testnet.&#x20;
+* Comprehensive documentation available in Russian and English.
 
-Join us at DeFiesta, and start transforming your DeFi project ideas into reality with unparalleled ease, security, and efficiency. Explore our platform today and take the first step towards realizing your blockchain ambitions.
+### Benefits for Developers:
+
+* Optimized open-source smart contracts.&#x20;
+* Flexible settings for tokenomics, liquidity, and presales.
+* Presale widget that can be embedded on any website—boosts project sales and referral rewards.&#x20;
+* Support for multiple token extensions (API for external service integration, Pausable, Mintable, etc.).&#x20;
+* API for external service integration.&#x20;
+* Gas-optimized code for cost efficiency.&#x20;
+* Multi-chain support (Arbitrum, Sepolia).&#x20;
+* Automatic liquidity pool addition after presale.&#x20;
+* Free testing of all features in the testnet.
+
+### Benefits for Investors in DeFiesta:
+
+* Transparent presales conducted via smart contracts. Token purchases and wallet deposits occur in a single transaction, or tokens are locked and automatically credited to the investor at the time of listing.
+* Built-in protection against scams and fraud. Presales ensure that the collected liquidity is allocated to the specified DEX in a predetermined ratio. Once launched, the presale contract owner cannot change parameters or percentage allocations.
+* Automatic liquidity addition after presale. The smart contract automatically adds liquidity and creates a trading pair upon completion. The owner cannot withdraw liquidity from the contract.
+* Early-round presale participation in DeFiesta. Presales may include multiple rounds: the earlier you participate, the lower the price and the more limited the token supply, increasing potential ROI.
+
+### Benefits for Airdrop Participants:
+
+* Gamified token distribution through TMA (Telegram Mini App). Play Tetris, upgrade cards for passive income, and complete tasks.
+* Protection against bots and auto-clickers. Core game mechanics (Tetris) are synchronized with the server, preventing bot usage and automated clickers.
+* Increased rewards through the referral system. By default, 200,000 coins are awarded for each invited friend. After 10 invites, an additional 5% of their earnings is credited.
+
+### Benefits for Bloggers, Channel Owners, and Influencers:
+
+* Instant payouts for referred users.
+* Transparent affiliate program with detailed statistics tracking.
+* Ambassador status with exclusive privileges.
+* Ready-to-use marketing materials and brand book.
+* Ability to integrate Presale widgets of any project into your own resources.
 

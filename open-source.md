@@ -1,13 +1,11 @@
----
-description: Open Source DeFiesta projects
----
-
 # Open Source
 
-Embracing a policy of full transparency, DeFiesta operates as an open platform, making our projects accessible in the public domain. This approach underlines our commitment to open-source principles, fostering a community-driven environment where collaboration and innovation flourish. Below is a curated list of our publicly released projects, showcasing our dedication to contributing to the decentralized finance (DeFi) ecosystem. This initiative not only demonstrates our openness but also invites developers and enthusiasts to engage with and build upon our work, driving forward the collective advancement of DeFi solutions.
+At DeFiesta, we uphold the principles of full transparency and open interaction. Our platform is open-source, making our projects accessible to the community. This approach enables us to collaboratively advance the decentralized finance (DeFi) ecosystem.
+
+Below is a list of our public projects, which we have made open to everyone. We invite developers and community members to join us, explore, and improve our solutions—together, we can drive DeFi innovation forward.
 
 ## DeFiesta Contracts
 
-DeFiesta Contracts is a library for the secure and optimized development of modern smart contracts.
+A library for secure and optimized development of modern smart contracts.
 
 * GitHub: [https://github.com/DeFiesta-dApp/defiesta-contracts](https://github.com/DeFiesta-dApp/defiesta-contracts)&#x20;

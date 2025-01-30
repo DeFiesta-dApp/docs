@@ -1,13 +1,13 @@
----
-description: Details of DeFiesta products
----
-
 # Products
 
-DeFiesta is your go-to platform for decentralized finance services, offering a wide array of solutions tailored to your needs. Should you encounter any issues or have questions, our [support](../contact-us/#support-and-contacts) team is here to assist you every step of the way. Feel free to reach out at any time.
+* ERC20 token builder without programming skills
 
-Here are the articles in this section:
+{% content-ref url="token-builder/" %}
+[token-builder](token-builder/)
+{% endcontent-ref %}
 
-## [Token](token/)
+* Creating a presale for an ERC20 token
 
-## [Presale](presale/)
+{% content-ref url="presale/" %}
+[presale](presale/)
+{% endcontent-ref %}
