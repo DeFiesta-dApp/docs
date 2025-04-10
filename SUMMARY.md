@@ -9,6 +9,7 @@
     * [Extensions overview](products/token-builder/extensions-overview.md)
   * [Presale](products/presale/README.md)
     * [Presale DeFiesta](products/presale/presale-defiesta.md)
+  * [Pay Flow](products/pay-flow.md)
 * [Open Source](open-source.md)
 * [Deployed Contracts](deployed-contracts.md)
 * [Affiliate Program](affiliate-program.md)
@@ -16,4 +17,3 @@
 * [Brand & Logos](brand-and-logos.md)
 * [API reference](api-reference.md)
 * [Contact Us](contact-us.md)
-* [Pay Flow](pay-flow.md)
