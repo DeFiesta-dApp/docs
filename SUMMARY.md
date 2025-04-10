@@ -16,3 +16,4 @@
 * [Brand & Logos](brand-and-logos.md)
 * [API reference](api-reference.md)
 * [Contact Us](contact-us.md)
+* [Pay Flow](pay-flow.md)
